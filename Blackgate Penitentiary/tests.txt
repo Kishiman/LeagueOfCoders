@@ -1,0 +1,101 @@
+-->
+6
+TheJoker 180
+HarleyQuin 160
+MrHammer 220
+Boody 220
+Muggs 180
+Paulie 180
+<--
+HarleyQuin 1 1
+Muggs Paulie TheJoker 2 4
+Boody MrHammer 5 6
+###
+-->
+10
+a 200
+aa 200
+ab 200
+aba 200
+aaa 200
+b 200
+A 200
+Aa 200
+AB 200
+B 200
+<--
+A AB Aa B a aa aaa ab aba b 1 10
+###
+-->
+8
+Naoto 165  
+Kanji 185 
+Rise 162 
+Chie 163  
+Yosuke 178 
+Protagonist 180  
+Yukiko 166 
+Tedie 155 
+<--
+Tedie 1 1
+Rise 2 2
+Chie 3 3
+Naoto 4 4
+Yukiko 5 5
+Yosuke 6 6
+Protagonist 7 7
+Kanji 8 8
+###
+-->
+35
+Qiqi 139
+Xiao 160
+Beidou 172
+Fischl 153
+Lumine 156
+Yanfei 157
+Keqing 156
+Xiangling 156
+Barbara 157
+Noelle 157
+Sucrose 157
+Kaeya 185
+Xinyan 157
+Venti 165
+Rosaria 176
+Razor 165
+Klee 127
+Ningguang 180
+Kate 152
+Eula 172
+Lisa 180
+Bennet 162
+Tartaglia 185
+Diluc 185
+Zhongli 185
+Aether 162
+Xingqiu 162
+Amber 162
+Chongyun 162
+Mona 165
+Diona 134
+Albedo 162
+Ganyu 160
+Hu 156
+Jean 172
+<--
+Klee 1 1
+Diona 2 2
+Qiqi 3 3
+Kate 4 4
+Fischl 5 5
+Hu Keqing Lumine Xiangling 6 9
+Barbara Noelle Sucrose Xinyan Yanfei 10 14
+Ganyu Xiao 15 16
+Aether Albedo Amber Bennet Chongyun Xingqiu 17 22
+Mona Razor Venti 23 25
+Beidou Eula Jean 26 28
+Rosaria 29 29
+Lisa Ningguang 30 31
+Diluc Kaeya Tartaglia Zhongli 32 35
+###
