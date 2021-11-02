@@ -1,4 +1,4 @@
-# Lexical Addition
+# Fibonacci
 
 Dr. Fibonacci is modeling the bacteria population growth using a famous sequence. Initially, a bacterium is placed inside a test tube. There will be 1 bacterium in the first minute, 2 bacteria in the second minute, 3 in the third minute, 5 in the fourth minute and so on. At the end of the minute nnn, the number of bacteria will be equal to the number of bacteria in minute n−2 plus the number of bacteria in minute n−1.
 
