@@ -1,16 +1,16 @@
 # Shoe Pairs
 
-You have NNN shoes, for each of them you know its size and whether it's a left or a right shoe.
+You have N shoes, for each of them you know its size and whether it's a left or a right shoe.
 
 Any left shoe can be paired with any right shoe of the same size. What's the maximum number of pairs you can make? 
 ## Standard input
 
-You have NNN shoes, for each of them you know its size and whether it's a left or a right shoe.
+You have N shoes, for each of them you know its size and whether it's a left or a right shoe.
 
 Any left shoe can be paired with any right shoe of the same size. What's the maximum number of pairs you can make?  
 ## Standard output
 
-You have NNN shoes, for each of them you know its size and whether it's a left or a right shoe.
+You have N shoes, for each of them you know its size and whether it's a left or a right shoe.
 
 Any left shoe can be paired with any right shoe of the same size. What's the maximum number of pairs you can make? 
 ##  Constraints and notes
